@@ -1,5 +1,5 @@
-name: CI-Buils
-on: [ push ]
+name: CI-Builds
+on: push
 
 jobs:
   build: 
